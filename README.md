@@ -1,15 +1,15 @@
 # GWC_BeginnerLevel_Activities
 
-this repo contains the main coding activities we did in our girls who code beginner level class.  
-each folder lines up with a class day and topic.
+This repo contains the main coding activities we did in our UIC Girls Who Code beginner level class (2025-2026.  
+Each folder lines up with a class day and topic.
 
 ## structure
 
-- `day1/` – hello world and first print statements
-- `day2/` – input, variables, and data types
-- `day3/` – if / elif / else and logic
-- `day4/` – lists, tuples, sets, dictionaries
-- `day5/` – loops, ascii art, and file writing
+- `Day1/` – hello world and first print statements
+- `Day2/` – input, variables, and data types
+- `Day3/` – if / elif / else and logic
+- `Day4/` – lists, tuples, sets, dictionaries
+- `Day5/` – loops, ascii art, and file writing
 
 students can:
 - re-run any file in github codespaces
